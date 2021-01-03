@@ -5,3 +5,6 @@ def addition (num1, num2)
 end
 
 addition "5" , "4"
+
+def subraction (num1, num2)
+  
