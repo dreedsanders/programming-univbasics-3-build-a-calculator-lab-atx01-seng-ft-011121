@@ -32,4 +32,5 @@ puts num1 * num2
 end
 multiplication "4" , "30"
 
+def
 
