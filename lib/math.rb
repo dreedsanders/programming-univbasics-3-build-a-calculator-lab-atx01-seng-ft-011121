@@ -39,6 +39,7 @@ end
 modulo "34" , "5" 
 
 def square_root (num1)
+  num1 = num1.to_i
 puts Math.sqrt(num1)   
 end
 
